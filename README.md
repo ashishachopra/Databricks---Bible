@@ -1,3 +1,11 @@
 # Databricks---Bible
-https://github.com/databricks
-https://github.com/databricks/databricks-ml-examples
+https://github.com/databricks </br> 
+https://github.com/databricks-solutions </br> 
+https://github.com/databrickslabs </br> 
+https://github.com/databricks-industry-solutions </br> 
+https://github.com/databricks/databricks-ml-examples </br>
+https://github.com/rdblue </br>
+https://github.com/andyk </br>
+https://github.com/zoltanctoth </br>
+https://github.com/jfrankle </br>
+https://github.com/srowen </br>
